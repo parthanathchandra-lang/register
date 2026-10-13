@@ -3,7 +3,10 @@
     "username": "parthanathchandra-lang",
     "email": "parthanathchandra@gmail.com"
   },
+  "description": "StarHub IGDB - Game database hub - Vercel: starhubigdb.vercel.app",
+  "domain": "starhub",
   "record": {
-    "CNAME": "starhub-eta.vercel.app"
-  }
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "proxied": true
 }
